@@ -19,7 +19,7 @@ jobs:
           github_user_name: Dhruv-Sharma29
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
