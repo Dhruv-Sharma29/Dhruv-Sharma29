@@ -18,7 +18,7 @@
                                               |   Shell: zsh
                                               |   CPU: Apple Silicon
                                               |   Editor:
-                                              |     ```text
+                                              |     ```
                                               |     IntelliJ IDEA
                                               |     VS Code
                                               |     CodeBlocks
