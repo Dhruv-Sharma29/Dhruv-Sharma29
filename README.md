@@ -75,4 +75,3 @@
   <img alt="github contribution snake animation"
     src="https://raw.githubusercontent.com/Dhruv-Sharma29/Dhruv-Sharma29/output/github-snake.svg" />
 </picture>
-
