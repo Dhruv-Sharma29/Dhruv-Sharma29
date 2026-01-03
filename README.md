@@ -38,7 +38,7 @@
                                               |
                                               |   ❯ cat skills.txt
                                               |   Java | Python | C/C++
-                                              |   Git | GitHub | Linux
+                                              |   Git  | GitHub | Linux
                                               |   AWS (EC2, S3, IAM)
                                               |
                                               |   ❯ htop
