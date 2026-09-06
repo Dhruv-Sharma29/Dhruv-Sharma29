@@ -1,0 +1,17 @@
+{
+  "_comment": "Three featured repos, in README order. Star/fork/language come live from the API on every run; descriptions here override the repos' GitHub descriptions.",
+  "projects": [
+    {
+      "repo": "AlertVision-Violence-Detection-System",
+      "description": "Real-time violence detection from video using a ResNet50 + LSTM pipeline, Streamlit UI, and automated email alerts."
+    },
+    {
+      "repo": "FocusGuard",
+      "description": "Privacy-first terminal productivity tracker with focus scoring, procrastination detection, encrypted local storage, and optional AI coaching."
+    },
+    {
+      "repo": "Visio-Space",
+      "description": "A collaborative TypeScript workspace for organizing ideas, discovering patterns, and creating meaningful affinity maps."
+    }
+  ]
+}

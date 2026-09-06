@@ -1,0 +1,14 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Profile-aligned self-ratings based on your listed ML, AI, MLOps, data, cloud, and deployment skills. Values are 0-100; adjust them as you grow.",
+  "axes": [
+    { "label": "Python",       "value": 92 },
+    { "label": "ML / DL",      "value": 88 },
+    { "label": "LLM / Agents", "value": 84 },
+    { "label": "MLOps",        "value": 86 },
+    { "label": "Data Eng",     "value": 80 },
+    { "label": "Cloud / AWS",  "value": 74 },
+    { "label": "APIs / Deploy", "value": 82 },
+    { "label": "SQL",          "value": 78 }
+  ]
+}
