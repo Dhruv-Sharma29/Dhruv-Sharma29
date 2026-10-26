@@ -36,7 +36,7 @@ machine-learning systems, from training and experimentation to deployment and mo
 > Between Data and Decisions
 
 - Currently exploring **machine learning, computer vision, LLM agents, MLOps, and data engineering**
-- Portfolio: **[dhruv-sharma29.github.io/Portfolio](https://dhruv-sharma29.github.io/Portfolio/)**
+- Portfolio: **[dhruvsharma29.vercel.app](https://dhruvsharma29.vercel.app)**
 - Education: **B.Tech CSE (AI & DS), Graphic Era Deemed University**
 
 <br>
