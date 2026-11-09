@@ -113,31 +113,31 @@ machine-learning systems, from training and experimentation to deployment and mo
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/Dhruv-Sharma29/AlertVision-Violence-Detection-System">
+  <a href="https://github.com/Dhruv-Sharma29/llm-inference-lab">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-AlertVision-Violence-Detection-System-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-AlertVision-Violence-Detection-System-light.svg">
-      <img src="assets/card-AlertVision-Violence-Detection-System-dark.svg" width="420" alt="AlertVision Violence Detection System">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-llm-inference-lab-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-llm-inference-lab-light.svg">
+      <img src="assets/card-llm-inference-lab-dark.svg" width="420" alt="llm-inference-lab">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/Dhruv-Sharma29/FocusGuard">
+  <a href="https://github.com/Dhruv-Sharma29/reliable-operations-agent">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-FocusGuard-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-FocusGuard-light.svg">
-      <img src="assets/card-FocusGuard-dark.svg" width="420" alt="FocusGuard">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-reliable-operations-agent-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-reliable-operations-agent-light.svg">
+      <img src="assets/card-reliable-operations-agent-dark.svg" width="420" alt="reliable-operations-agent">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/Dhruv-Sharma29/Visio-Space">
+  <a href="https://github.com/Dhruv-Sharma29/small-model-tool-use">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Visio-Space-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Visio-Space-light.svg">
-      <img src="assets/card-Visio-Space-dark.svg" width="420" alt="Visio-Space">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-small-model-tool-use-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-small-model-tool-use-light.svg">
+      <img src="assets/card-small-model-tool-use-dark.svg" width="420" alt="small-model-tool-use">
     </picture>
   </a>
 </td>
@@ -146,11 +146,11 @@ machine-learning systems, from training and experimentation to deployment and mo
 
 <sub>
 
-| project | live | stack |
+| project | result | stack |
 |---|---|---|
-| **[AlertVision](https://github.com/Dhruv-Sharma29/AlertVision-Violence-Detection-System)** | [Live demo](https://huggingface.co/spaces/dhruvsharma29/AlertVision) | `Python` `TensorFlow` `OpenCV` `Streamlit` |
-| **[FocusGuard](https://github.com/Dhruv-Sharma29/FocusGuard)** | — | `Python` `CLI` `SQLCipher` |
-| **[Visio-Space](https://github.com/Dhruv-Sharma29/Visio-Space)** | [Live demo](https://visiospace.netlify.app/) | `TypeScript` |
+| **[llm-inference-lab](https://github.com/Dhruv-Sharma29/llm-inference-lab)** | 1,800 requests, 0 errors; throughput up 14x to 16 concurrent | `Python` `FastAPI` `vLLM` `Prometheus` |
+| **[reliable-operations-agent](https://github.com/Dhruv-Sharma29/reliable-operations-agent)** | Local 7B agent: 15/30 incidents vs 30/30 for a scripted runbook | `Python` `FastAPI` `PostgreSQL` |
+| **[small-model-tool-use](https://github.com/Dhruv-Sharma29/small-model-tool-use)** | Tuned 7B: 84–94% on unseen tasks vs 73% for a prompted 14B | `Python` `LoRA` `Qwen2.5` `GGUF` |
 
 </sub>
 
